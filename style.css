@@ -154,15 +154,6 @@
     border-radius: 50px;
 }
 
-audio {
-    width: 100%;
-    height: 85%;
-}
-
-audio::-webkit-media-controls-enclosure {
-    background-color: #222222;
-}
-
 .song {
     display: flex;
     justify-content: space-between;
